@@ -75,7 +75,3 @@ if (savedToDos !== null) {
 
   parsedToDos.forEach(createTodo)
 }
-
-// toDoArray.filter((item) => {
-//   return li.id !== localStorage.id
-// })
